@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kamilagcabay27
 - 👀 I’m interested in Android Software
 - 🌱 I’m currently learning Java and Kotlin
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Android Mobile Application Development
 - 📫 How to reach me ...
 
 <!---
