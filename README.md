@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kamilagcabay27
-- 👀 I’m interested in Android Software
-- 🌱 I’m currently learning Java and Kotlin
-- 💞️ I’m looking to collaborate on Android Mobile Application Development
+- 👀 I’m interested in Mobile Software
+- 🌱 I’m currently working Java, Kotlin and Flutter
+- 💞️ I’m looking to collaborate on Mobile Application Development
 - 📫 How to reach me ...
 - www.linkedin.com/in/kamil-ağcabay-b67ab3225
 
